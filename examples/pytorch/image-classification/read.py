@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 from transformers import ViTForImageClassification, ViTFeatureExtractor
 from PIL import Image
 
